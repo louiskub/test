@@ -1,3 +1,3 @@
 <?php 
-shell_exec(string $command)
+shell_exec(ls)
 ?>
