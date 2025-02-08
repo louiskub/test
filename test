@@ -1,4 +1,0 @@
-<?php 
-$result = shell_exec("ls /");
-echo "<div>$result</div>";
-?>
